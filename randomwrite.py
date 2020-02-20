@@ -1,7 +1,4 @@
 #This program generates some random numbers and writes some data to a file
-#Chule Hou
-#14327214
-#chcnd
 import random
 
 do_input = True
