@@ -1,7 +1,4 @@
 #This program is to provide experience working with numerical data in a file and determines and displays the following:
-#Chule Hou
-#14327214
-#chcnd
 import os
 path = '/Users/chulehou/Desktop/numbers.txt'
 print('File name: ' + os.path.basename(path))
