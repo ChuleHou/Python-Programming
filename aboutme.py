@@ -1,6 +1,3 @@
-#Chule Hou
-#Pawprint: chcnd
-#Student ID: 14327214
 name = 'Chule Hou'
 major = 'Computer Science'
 
