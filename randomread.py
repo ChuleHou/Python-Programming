@@ -1,7 +1,4 @@
 #This program displays the contents of a file
-#Chule Hou
-#14327214
-#chcnd
 def main():
     try:
         #Open the file
