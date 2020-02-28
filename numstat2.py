@@ -9,9 +9,6 @@
 #Median of the numbers.
 #Mode of the numbers.
 
-#Chule Hou
-#14327214
-
 while (True):
     
     # Initialize variables
